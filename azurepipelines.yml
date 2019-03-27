@@ -1,0 +1,4 @@
+azure-pipelines.yml
+
+pool:
+vmImaeg: 'Ubuntu 16.04'
